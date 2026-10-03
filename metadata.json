@@ -1,0 +1,8 @@
+{
+  "name": "Remix OmniMessenger AI - Marketing Agent \u0026 E2EE Lead Qualifier",
+  "description": "Android-first Facebook Messenger marketing AI agent with real-time end-to-end encryption (AES-256-GCM), NLP lead qualification, and Material Design interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
